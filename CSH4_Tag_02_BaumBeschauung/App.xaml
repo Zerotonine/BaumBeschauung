@@ -1,0 +1,9 @@
+﻿<Application x:Class="CSH4_Tag_02_BaumBeschauung.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CSH4_Tag_02_BaumBeschauung"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

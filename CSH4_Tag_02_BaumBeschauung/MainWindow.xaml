@@ -1,0 +1,20 @@
+﻿<Window x:Class="CSH4_Tag_02_BaumBeschauung.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSH4_Tag_02_BaumBeschauung"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <GridSplitter Width="5"/>
+
+        <TreeView x:Name="tvBauemchen" Margin="5" TreeViewItem.Expanded="tvBauemchen_Expanded" TreeViewItem.Selected="tvBauemchen_Selected"/>
+        <ListView x:Name="lvListe" Grid.Column="1"/>
+    </Grid>
+</Window>

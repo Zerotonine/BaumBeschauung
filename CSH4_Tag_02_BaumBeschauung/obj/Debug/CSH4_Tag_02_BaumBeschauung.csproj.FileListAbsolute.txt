@@ -1,0 +1,15 @@
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\bin\Debug\CSH4_Tag_02_BaumBeschauung.exe.config
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\bin\Debug\CSH4_Tag_02_BaumBeschauung.exe
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\bin\Debug\CSH4_Tag_02_BaumBeschauung.pdb
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\MainWindow.g.cs
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\App.g.cs
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung_MarkupCompile.cache
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung_MarkupCompile.lref
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\MainWindow.baml
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.g.resources
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.Properties.Resources.resources
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.csproj.GenerateResource.cache
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.exe
+C:\Users\Phil\source\repos\CSH4_Tag_02_BaumBeschauung\CSH4_Tag_02_BaumBeschauung\obj\Debug\CSH4_Tag_02_BaumBeschauung.pdb
